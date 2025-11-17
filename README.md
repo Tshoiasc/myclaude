@@ -101,8 +101,8 @@ make deploy-all          # Everything
 ```
 
 **Method 3: Manual Setup**
-- Copy `/commands/*.md` to `~/.config/claude/commands/`
-- Copy `/agents/*.md` to `~/.config/claude/agents/`
+- Copy `/commands/*.md` to `~/.claude/commands/`
+- Copy `/agents/*.md` to `~/.claude/agents/`
 
 Run `make help` for all options.
 
